@@ -1,0 +1,6 @@
+QQQ INVESTOR APP — STANDALONE
+
+This folder is self-contained and does not import the other project folders.
+Install Python 3.11+, then run: py -m pip install -r requirements.txt
+Double-click Run QQQ Investor App.cmd, then open http://localhost:8504.
+The saved AAPL and COST SEC evidence is embedded in app.py.
